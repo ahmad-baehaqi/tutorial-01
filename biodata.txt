@@ -1,2 +1,3 @@
-NPM  : 1806269581
-Nama : Ahmad Baehaqi 
+NPM     : 1806269581
+Nama    : Ahmad Baehaqi
+Jurusan : Sistem Informasi
